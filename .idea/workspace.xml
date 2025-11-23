@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef259c85-5c8c-4ec8-9f71-685f28dc6fe8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EC_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef259c85-5c8c-4ec8-9f71-685f28dc6fe8" name="Changes" comment="Python Learning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +38,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -59,6 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1763876338412</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python Learning">
+      <option name="closed" value="true" />
+      <created>1763876786728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763876786728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python Learning">
+      <option name="closed" value="true" />
+      <created>1763876806394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763876806394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python Learning">
+      <option name="closed" value="true" />
+      <created>1763877176429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763877176429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Learning" />
   </component>
 </project>
