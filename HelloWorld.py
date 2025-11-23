@@ -1,12 +1,12 @@
 print("Hello_World!");
 
-# Python Built-In Function
+#  Python Built-In Function
 
-#print
-#type
-#sum
-#filter
-#id
+# print
+# type
+# sum
+# filter
+# id
 
 #  Special Keywords
 
