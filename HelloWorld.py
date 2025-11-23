@@ -18,3 +18,11 @@ print("Hello_World!");
 # if
 # elif
 # else
+
+#   Datatypes
+
+# Str
+# float
+# list
+# bool
+# int
