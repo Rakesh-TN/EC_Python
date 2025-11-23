@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef259c85-5c8c-4ec8-9f71-685f28dc6fe8" name="Changes" comment="Python Learning" />
+    <list default="true" id="ef259c85-5c8c-4ec8-9f71-685f28dc6fe8" name="Changes" comment="Python Datatypes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +25,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rakesh-TN"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Rakesh-TN/EC_Python.git",
@@ -112,11 +118,29 @@
       <option name="project" value="LOCAL" />
       <updated>1763877973529</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python Built-in Function and Special keywords">
+      <option name="closed" value="true" />
+      <created>1763878067216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763878067216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Python Datatypes">
+      <option name="closed" value="true" />
+      <created>1763878374805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763878374805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Learning" />
+    <MESSAGE value="Python Built-in Function and Special keywords" />
+    <MESSAGE value="Python Datatypes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Datatypes" />
   </component>
 </project>
